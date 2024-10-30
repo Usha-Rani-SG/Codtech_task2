@@ -26,6 +26,7 @@ Data Splitting: Split the dataset into training and test sets to enable the mode
 Model Training: Apply linear regression to the training data, allowing the model to determine the optimal coefficients for each feature.
 Prediction: Use the trained model to predict house prices on the test data or new data samples.
 Model Evaluation: Evaluate the model’s performance using metrics such as Mean Squared Error (MSE) to assess its accuracy and reliability in predicting prices.
-Technologies used
 
+
+Technologies used
 Python R language Numpy Pandas Scikit-learn Tensor flow Matplotlib and seaborn
